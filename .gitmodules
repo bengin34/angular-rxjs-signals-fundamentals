@@ -1,0 +1,3 @@
+[submodule "angular-rxjs-signals-fundamentals"]
+	path = angular-rxjs-signals-fundamentals
+	url = https://github.com/bengin34/RxJs-and-Angular-Signals
