@@ -12,4 +12,6 @@ export class ReviewService {
     // get an exact match on the id
     return this.reviewsUrl + '?productId=^' + productId + '$';
   }
+
+  
 }
